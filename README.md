@@ -1,0 +1,1 @@
+# shopfast-api-inventory
